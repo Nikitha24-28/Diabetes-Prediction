@@ -23,7 +23,7 @@ NumPy
 Pandas
 Scikit-learn
 
-Key Steps
+Key Steps :                          
 Data preprocessing & feature scaling
 Train-test split
 Model training (Logistic Regression / SVM)
