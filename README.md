@@ -17,7 +17,7 @@ Target:
 0 → Non-Diabetic
 1 → Diabetic
 
-Tech Stack
+Tech Stack:                             
 Python
 NumPy
 Pandas
