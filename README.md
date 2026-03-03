@@ -24,11 +24,10 @@ Pandas
 Scikit-learn
 
 Key Steps :                          
-Data preprocessing & feature scaling
-Train-test split
-Model training (Logistic Regression / SVM)
-Accuracy evaluation
-Single input prediction using:
+Data preprocessing & feature scaling                                      
+Train-test split                                                
+Model training (Logistic Regression / SVM)                                         
+Accuracy evaluation                                                       
 
 Result
 The model successfully predicts whether a person is diabetic based on input medical data.
